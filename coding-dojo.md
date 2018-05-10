@@ -1,29 +1,19 @@
+# Meta:
+- Intent / Location / Detail
+- Baby Steps
+- Better is better than perfect (Worse is better)
+- Identify, Prepare, Improve, Clean
+- Respect what is there
+- Systems 1 thinking
+
 # Agenda
 
-Intent
-
-
-
-Location
-
-
-
-
-
-
-
-
-
-
-Detail
-
-
-
+## Questions for Group
 - What's the take away for the next couple hours?
 - Sticky notes on what to know
 
+## Katas
 Intention to focus on refactoring
-
 Identifying pain and how to get rid of it
 
 - Sparrow deck
@@ -50,6 +40,7 @@ Identifying pain and how to get rid of it
       - Navigator could ask xing or murtuza if you are stuck navigating
 
   - Only deleting code
+  - 1 / 3 of codebase is clutter
 
 (Observe keyboard shortcut usage)
 - Names (Bad names sparrow deck)
@@ -70,4 +61,4 @@ Identifying pain and how to get rid of it
   - Extraction
 
 - Duplication
-
+  - Identify, Prepare, Improve, Clean
