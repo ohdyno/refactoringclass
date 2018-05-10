@@ -5,6 +5,7 @@
 - Identify, Prepare, Improve, Clean
 - Respect what is there
 - Systems 1 thinking
+- Listen to the code
 
 # Agenda
 
