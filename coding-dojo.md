@@ -62,3 +62,5 @@ Identifying pain and how to get rid of it
 
 - Duplication
   - Identify, Prepare, Improve, Clean
+
+[Infographics](http://llewellynfalco.blogspot.com/p/infographics.html)
